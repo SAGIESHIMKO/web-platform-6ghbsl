@@ -1,0 +1,39 @@
+:root { 
+  --black: #000000;
+  --blackcurrant: #2d2b3c;
+  --bon-jour: #dfdfdf;
+  --cultured-pearl: #f5f5f5;
+  --white: #ffffff;
+ 
+  --font-size-l: 17px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+ 
+  --font-family-proxima_nova-medium: "Proxima Nova-Medium", Helvetica;
+  --font-family-proxima_nova-regular: "Proxima Nova-Regular", Helvetica;
+  --font-family-sf_pro_text-semibold: "SF Pro Text-Semibold", Helvetica;
+}
+.proximanova-regular-normal-blackcurrant-14px {
+  color: var(--blackcurrant);
+  font-family: var(--font-family-proxima_nova-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-regular-normal-bon-jour-16px {
+  color: var(--bon-jour);
+  font-family: var(--font-family-proxima_nova-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.proximanova-medium-cultured-pearl-20px {
+  color: var(--cultured-pearl);
+  font-family: var(--font-family-proxima_nova-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}

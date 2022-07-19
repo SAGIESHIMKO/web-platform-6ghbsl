@@ -1,0 +1,25 @@
+.elements-time {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 2px;
+  height: min-content;
+  justify-content: center;
+  margin-left: 13px;
+  margin-top: 4.0px;
+  width: min-content;
+}
+
+.time {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: -0.50px;
+  line-height: 17px;
+  margin-top: -1px;
+  min-width: 35px;
+  text-align: center;
+  white-space: nowrap;
+}
+

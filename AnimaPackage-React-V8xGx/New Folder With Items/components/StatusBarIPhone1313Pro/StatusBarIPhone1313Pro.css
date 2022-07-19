@@ -1,0 +1,29 @@
+.status-bar-i-phone-13-13-pro {
+  align-items: flex-start;
+  display: flex;
+  height: 47px;
+  padding: 6px 26.7px;
+  position: relative;
+  width: 375px;
+}
+
+.flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 196px;
+  min-height: 26px;
+  position: relative;
+  width: 78px;
+}
+
+.indicators {
+  align-items: center;
+  display: flex;
+  gap: 7px;
+  height: min-content;
+  margin-top: 7px;
+  position: relative;
+  width: min-content;
+}
+
